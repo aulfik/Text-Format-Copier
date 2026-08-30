@@ -136,8 +136,6 @@ Mengubah teks menjadi format snake_case.
 
 ## Screenshot
 
-![Text Format Copier extension preview](./assets/screenshot-context-menu.svg)
-
 Ekstensi ini muncul di menu klik kanan saat teks dipilih. Pengguna cukup klik kanan, pilih format konversi yang diinginkan, lalu teks hasil transformasi otomatis tersalin ke clipboard.
 
 ## Privacy Policy
