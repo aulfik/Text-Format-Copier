@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Text Format Copier",
+  "version": "1.0.0",
+  "description": "Convert selected text into sentence case, lowercase, uppercase, slugify, snakify, and more, then copy it instantly.",
+  "permissions": ["contextMenus", "activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Text Format Copier",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "128": "icons/icon-128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  }
+}
