@@ -62,13 +62,6 @@ Converts text into snake_case format.
 
 This extension appears in the browser context menu when text is selected. Users can right-click the selection, choose the conversion option, and the transformed text is copied to the clipboard immediately.
 
-## Versioning
-
-This project uses semantic versioning:
-- `MAJOR`: breaking changes
-- `MINOR`: new features or menu options
-- `PATCH`: bug fixes and small improvements
-
 Current version: `1.0.0`
 
 
